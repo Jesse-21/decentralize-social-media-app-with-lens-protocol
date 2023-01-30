@@ -31,17 +31,17 @@ export default function Home() {
   return (
     <div className="grid grid-cols-3 divide-x">
       <Head>
-        <title>Decentralized Social Network - Lens protocol</title>
-        <meta name="description" content="Decentralize Social Media App" />
+        <title>ThirdyLens</title>
+        <meta name="description" content="Thirdy's Decentralized Social Media on top of Lens Protocol" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="col-span-3">
         <div className="px-4 py-8">
           <h1 className="text-3xl font-bold leading-tight text-center">
-            Decentralized Social Network - Lens protocol
+            ThirdyLens
           </h1>
           <p className="text-center">
-            This is a decentralized social network built on the Lens protocol.
+            This is a decentralized social network built on the Lens protocol
           </p>
         </div>
       </div>
